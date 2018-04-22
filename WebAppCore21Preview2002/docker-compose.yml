@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webappcore21preview2002:
+    image: ${DOCKER_REGISTRY}webappcore21preview2002
+    build:
+      context: .
+      dockerfile: WebAppCore21Preview2002\Dockerfile
