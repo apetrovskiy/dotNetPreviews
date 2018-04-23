@@ -9,3 +9,14 @@ C:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.As
 C:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
 C:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
 C:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojAssemblyReference.cache
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
+D:\Projects\dotNetPreviews\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
